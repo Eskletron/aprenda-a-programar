@@ -1,4 +1,6 @@
-let n = 1
-while (n <= 9) { console.log(n) 
-n = n + 1 
+let i = 1
+let n = 15
+while (i <= n) {
+    console.log(i)
+    i++
 }
